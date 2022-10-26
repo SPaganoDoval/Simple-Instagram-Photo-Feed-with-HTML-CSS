@@ -1,0 +1,44 @@
+.photo-feed-header {
+	text-align: center;
+	background-color: white;
+}
+
+.photo-feed-body{
+	padding: 20px;
+	background-color: D0D0D0;
+}
+
+.post{
+	background-color: white;
+	margin: auto;
+	height: auto;
+  	width: 300px;
+	margin-bottom: 20px;
+}
+
+.post-header {
+	width: 100%;
+	display: flex;
+	padding: 7 px;
+}
+
+.post-footer {
+	padding: 7px;
+}
+
+.post-header-left {
+width: 260px;
+font-weight: bolder;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.post-header-right{
+	color:gray;
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	font-size: small;
+}
+
+.img-post {
+	width: 100%;
+
+}
